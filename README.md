@@ -1,4 +1,4 @@
-# Storage Estimator - Feature Version
+# Storage Estimator - Main Version
 
 ## Purpose
 A Python program that estimates storage size and converts the result to different units.
