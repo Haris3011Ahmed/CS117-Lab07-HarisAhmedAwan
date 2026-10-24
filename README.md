@@ -8,7 +8,7 @@ A Python program that estimates storage size and converts the result to differen
 python storage_estimator.py
 
 ## Example
-Input: 2048
+Input: 2
 Output: 2048 MB = 2.0 GB
 
 ## Author
